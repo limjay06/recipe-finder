@@ -1,0 +1,18 @@
+.card-title {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+}
+
+img {
+  width: 100%;
+}
+
+@media (max-width: 767.98px) {
+  .ingredients {
+    text-align: center;
+    margin-top: 30px;
+  }
+}
