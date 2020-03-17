@@ -30,5 +30,3 @@ const RecipesItem = ({recipe: {id, title, image, imageUrls}}) => {
 }
 
 export default RecipesItem
-
-// https://api.spoonacular.com/recipes/${id}/information?includeNutrition=false&apiKey=b8d0d853b3774e8cbd154ee8a5783dda
